@@ -1,0 +1,27 @@
+.guzik:hover{
+    color: chartreuse;
+    
+}
+.guzik{
+    width: 300px;
+    height: 60px;
+    font-size: 50px;
+}
+.wynik{
+    width: 200px;
+    height: 20px;
+    font-size: 40px;
+}
+.obrazek{
+    background-image:none;
+}
+
+
+html{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
